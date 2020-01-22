@@ -7,7 +7,11 @@ This is an Emask server NodeJS with MySQL database
 
 ## Installation
 *Download zip to your machine or run:
+```
     git clone git@github.com:xtianmpimbaza/emasksercer.git
+```
+
+
 *Open the directory
 then
 
