@@ -1,12 +1,13 @@
 
-# MySQL_CRUD
+# Emask server
 
-This is an example of RESTful CRUD in NodeJS with MySQL database
+This is an Emask server NodeJS with MySQL database
  
 
 
 ## Installation
-*Download zip to your machine or run: git clone git@github.com:xtianmpimbaza/emasksercer.git
+*Download zip to your machine or run:
+    git clone git@github.com:xtianmpimbaza/emasksercer.git
 *Open the directory
 then
 
